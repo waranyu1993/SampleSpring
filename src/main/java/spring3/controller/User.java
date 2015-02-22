@@ -1,8 +1,5 @@
 package main.java.spring3.controller;
 
-import java.util.Date;
-import java.util.List;
-
 public class User {
 	private String description;
 	private String date;
